@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Sample Threat Model",
+    "owner": "Mel Drews",
+    "description": "Testing"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Mel Drews"
+  }
+}
